@@ -2,4 +2,4 @@
 
 _____________________
 #### [GitHub](https://github.com/ogwpd) - [Instagram](https://instagram.com/ogwpd) - [Pinterest](https://www.pinterest.com/ogwpteam) - [GitLab](https://gitlab.com/ogwpd)
-#### Since January 25, 2020-Today, made with ❤️, the [OGWP devs](https://ogwpd.github.io).
+#### GitHub page created since January 25, 2020-Today with ❤️ by [OGWP Developers](https://ogwpd.github.io).
