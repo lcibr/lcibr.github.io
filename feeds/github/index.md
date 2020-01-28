@@ -2,7 +2,7 @@
 * [OGWP MyPyMC v.1.0 Commits](https://github.com/MyPyMC-IM/MyPyMC/commits/v1.0.atom)
 * [MyPyMC-IM.github.io Commits](https://github.com/MyPyMC-IM/MyPyMC-IM.github.io/commits/master.atom)
 * [OGWP Video.js Player Template Commits](https://github.com/ogwp/ogwp-players/commits/master.atom)
-* [OGWP Games] (https://github.com/ogwp/p/commits/master.atom)
+* [OGWP Games](https://github.com/ogwp/p/commits/master.atom)
 * [Rockpapsci Commits](https://github.com/ogwp/Rockpapsci)
 * [ogwp/rss Commits](https://github.com/ogwpd/rss/commits/master.atom)
 * [Moved Repositories](https://github.com/ogwpd/Moved-Repositories/commits/master.atom)
