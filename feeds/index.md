@@ -3,6 +3,7 @@
 * OGWP Developers' Blog's Comments Feed: [https://ogwpd.blogspot.com/feeds/comments/default](https://ogwpd.blogspot.com/feeds/comments/default)
 * OGWP Developers Experimental Feed: [https://ogwpd.github.io/rss/test](https://ogwpd.github.io/rss/test)
 * OGWP Developers Experimental Feed 2: [https://ogwpd.github.io/rss/test/test2.xml](https://ogwpd.github.io/rss/test/test2.xml)
+* OGWP Feed: [https://ogwp.github.io/rss](https://ogwp.github.io/rss)
 * [GitHub Feeds](https://ogwpd.github.io/feeds/github)
 
 _____________________
