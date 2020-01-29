@@ -7,6 +7,7 @@
 * [ogwp/rss Commits](https://github.com/ogwpd/rss/commits/master.atom)
 * [Moved Repositories](https://github.com/ogwpd/Moved-Repositories/commits/master.atom)
 * [ogwpd.github.io Commits](https://github.com/ogwpd/ogwpd.github.io/commits/master.atom)
+* [MyPyMC Releases](https://github.com/MyPyMC-IM/MyPyMC/releases.atom)
 
 _____________________
 #### [GitHub](https://github.com/ogwpd) - [Instagram](https://instagram.com/ogwpd) - [Pinterest](https://www.pinterest.com/ogwpteam) - [GitLab](https://gitlab.com/ogwpd) - [Blog](https://ogwpd.blogspot.com) - [Feeds](https://ogwpd.github.io/feeds)
